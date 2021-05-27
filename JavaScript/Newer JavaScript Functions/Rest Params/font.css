@@ -1,0 +1,8 @@
+h1, h3 {
+    font-family: 'Newsreader', serif;
+    font-size: 60dp;
+}
+
+p, ul {
+    font-family: 'Oswald', sans-serif;
+}

@@ -1,0 +1,31 @@
+div {
+    width: 200px;
+    border: 20px;
+}
+
+#one {
+    background-color: #fb8500;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+}
+
+#two {
+    background-color: #ffb703;
+    border-color: #ffcdb2;
+    border-width: 3px;
+    border-style: dashed;
+    border-left-width: 8px;
+    padding-right: 50px;
+}
+
+#three {
+    background-color: #e63946;
+}
+
+h1 {
+    padding-top: 50px;
+    padding-left: 100px;
+    width: 100px;
+    background-color: pink;
+}

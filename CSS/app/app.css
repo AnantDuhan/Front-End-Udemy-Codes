@@ -1,0 +1,79 @@
+    body {
+        background-color: #f1faee;
+    }
+    
+    h1,
+    h2 {
+        color: #1d3557;
+    }
+    
+    button {
+        font-size: 30px;
+        background-color: #a8dadc;
+    }
+    
+    #signup {
+        /* for id we use # */
+        background-color: #e9c46a;
+        color: #264653;
+    }
+    
+    span {
+        color: black;
+    }
+    
+    .tag {
+        background-color: #e63946;
+        color: #f1faee;
+    }
+    
+    .post a {
+        /* for classes we use a dot */
+        color: #1d3557;
+    }
+    
+    footer a {
+        color: #e63946;
+    }
+    
+    h2 + button {
+        background-color: aqua;
+    }
+
+    input[type="password"] {
+        color: green;
+    }
+
+    a[href*="google"] {
+        color: #5e0008;
+        font-style: italic;
+    }
+
+    a:hover {
+        color: goldenrod;
+    }
+
+    .post button:hover {
+        background-color: #e63946;
+    }
+
+    .post button:active {
+        background-color: #02c39a;
+    }
+
+    .post:nth-of-type(2n) {
+        background-color: #dfe8dc;
+    }
+
+    h2::first-letter {
+        color: red;
+        font-size: 30px;
+    }
+
+    p::first-line {
+        color: purple;
+    }
+
+    p::selection {
+        background-color: #ffb703;
+    }
